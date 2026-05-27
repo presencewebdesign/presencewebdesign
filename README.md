@@ -1,32 +1,45 @@
-# 👋 I'm James Stevenson - Software Engineer
+<!-- Animated Header -->
+<h1 align="center">Hi 👋, I'm James Stevenson</h1>
 
-Frontend-focused software engineer specialising in JavaScript, TypeScript, and modern web applications.
-
-## 🛠️ Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=ts,js,vue,vite,firebase,python,azure,html,css&perline=5)](https://skillicons.dev)
-
-## 🚀 About Me
-
-- 💻 Senior Frontend Software Engineer
-- ⚡ Building modern web applications with Vue, TypeScript, and Firebase
-- ☁️ Experience working with Azure and cloud-based solutions
-- 🧠 Passionate about performance, clean UI, and developer experience
-
-## Connect with me
-
-<p align="left">
-<a href="https://github.com/presencewebdesign" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="presencewebdesign" height="30" width="40" />
-</a>
-
-<a href="https://uk.linkedin.com/in/james-stevenson-developer" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="James Stevenson LinkedIn" height="30" width="40" />
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Engineer;Full+Stack+JavaScript+Developer;Vue+%7C+React+%7C+Node.js;Cloud+%7C+SaaS+%7C+Mobile+Apps&center=true&width=600&height=50">
 </p>
 
 ---
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=presencewebdesign&label=Profile%20views&color=0e75b6&style=flat" alt="presencewebdesign" />
-</p>
+## 🎯 Current Focus
+
+- 🚀 SaaS product development with modern TypeScript stacks
+- 🤖 AI integrations in full-stack web apps
+- ☁️ Cloud architecture (AWS + Azure)
+- ⚡ Performance, scalability, and system design
+
+---
+
+## 🧠 Frontend Stack
+
+[![Frontend Skills](https://skillicons.dev/icons?i=ts,js,vue,nuxtjs,vite,react,nextjs,html,css&perline=6)](https://skillicons.dev)
+
+---
+
+## ⚙️ Backend & Cloud Stack
+
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,firebase,supabase,python,aws,azure,docker&perline=5)](https://skillicons.dev)
+
+---
+
+## 📱 Mobile Development
+
+[![Mobile Skills](https://skillicons.dev/icons?i=swift,kotlin,react&perline=3)](https://skillicons.dev)
+
+---
+
+## 📡 Tech Radar (Core Strengths)
+
+```text
+Frontend        ██████████ Vue, React, Next.js, Nuxt
+Backend         █████████  Node.js, Express, NestJS
+Cloud           ████████   AWS, Azure
+Database        ████████   Supabase, Firebase, PostgreSQL
+Mobile          ███████    React Native, Swift, Kotlin
+DevOps          ████████   Docker, CI/CD
