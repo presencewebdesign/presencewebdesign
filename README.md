@@ -1,4 +1,3 @@
-```md
 # 👋 I'm James Stevenson - Software Engineer
 
 Frontend-focused software engineer specialising in JavaScript, TypeScript, and modern web applications.
@@ -31,4 +30,3 @@ Frontend-focused software engineer specialising in JavaScript, TypeScript, and m
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=presencewebdesign&label=Profile%20views&color=0e75b6&style=flat" alt="presencewebdesign" />
 </p>
-```
