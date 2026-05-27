@@ -1,16 +1,34 @@
-## Hi there 👋
+```md
+# 👋 I'm James Stevenson - Software Engineer
 
-<!--
-**presencewebdesign/presencewebdesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend-focused software engineer specialising in JavaScript, TypeScript, and modern web applications.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=ts,js,vue,vite,firebase,python,azure,html,css&perline=5)](https://skillicons.dev)
+
+## 🚀 About Me
+
+- 💻 Senior Frontend Software Engineer
+- ⚡ Building modern web applications with Vue, TypeScript, and Firebase
+- ☁️ Experience working with Azure and cloud-based solutions
+- 🧠 Passionate about performance, clean UI, and developer experience
+
+## Connect with me
+
+<p align="left">
+<a href="https://github.com/presencewebdesign" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="presencewebdesign" height="30" width="40" />
+</a>
+
+<a href="https://uk.linkedin.com/in/james-stevenson-developer" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="James Stevenson LinkedIn" height="30" width="40" />
+</a>
+</p>
+
+---
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=presencewebdesign&label=Profile%20views&color=0e75b6&style=flat" alt="presencewebdesign" />
+</p>
+```
